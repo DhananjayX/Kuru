@@ -1,0 +1,36 @@
+
+body{
+	
+	font-family: 'Roboto Mono', monospace  ;
+	/*  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+		font-family: 'Montserrat', sans-serif;	
+	*/	
+}
+
+/*classes */
+.space50
+{
+	margin-left:10px;	
+}
+
+.roundbtnnav
+{	
+	background-color:#0A4B56;
+	border-radius: 25px;
+	padding-left:6px;
+	padding-right:6px;
+	margin-bottom:2px;	
+}
+
+#homenotediv
+{
+	background-color:#0A4B56;
+	color:white;
+	height:50px;
+}
+
+.navbtnspace
+{
+	
+	margin-right:5px;
+}

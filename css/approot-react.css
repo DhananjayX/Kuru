@@ -1,0 +1,78 @@
+
+
+body{
+	
+	font-family: 'Roboto Mono', monospace  ;
+	/*  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+		font-family: 'Montserrat', sans-serif;	
+	*/	
+}
+
+.nav-react{
+	background-color:#17A2B8 ;
+	height:50px;
+	border-radius:10px;
+	padding:5px;
+	padding-top:30px;
+	margin-bottom: 2px;
+
+}
+
+.nav-react-title
+{
+font-size: larger;
+color:white;
+margin-right: 15px;
+}
+
+.nav-appname
+{
+	font-size:larger;
+
+}
+
+.roundbtnnav-white
+	{	
+		background-color:#0A4B56;
+		border-radius: 25px;
+		
+		display: inline-block;
+		height:30px;
+		width: 130px;
+        color:white;
+        
+        text-align: center;
+        vertical-align: middle;
+        line-height: 30px;
+
+	}
+
+
+    .redtoy{
+            background-color: lightcoral;
+            height: 150px;
+            width: 150px;
+            padding: 30px;
+            border: 1px solid red;
+            margin:20px;
+
+
+    }
+
+    .bluetoy
+    {
+            background-color: lightskyblue;
+            height: 150px;
+            width: 150px;
+            padding: 30px;
+            border: 1px solid blue;
+            margin:20px;
+    }
+
+    .circleCnt
+    {
+        border-radius: 25px;
+        height: 50px;
+        width: 50px;   
+
+    }
